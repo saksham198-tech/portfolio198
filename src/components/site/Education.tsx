@@ -7,7 +7,7 @@ const education = [
     degree: "Bachelor of Technology in Computer Science and Engineering",
     institution: "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
     period: "2022 - 2026",
-    details: "Relevant Coursework: Data Structures, Object-Oriented Programming, DBMS, Web Development, Software Engineering."
+    details: "Relevant Coursework: Data Structures, Object-Oriented Programming, DBMS, Web Development, Software Engineering, Operating Systems, Computer Organization and Architecture."
   }
 ];
 
