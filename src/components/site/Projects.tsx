@@ -19,7 +19,7 @@ const projects = [
       imageHint: 'portfolio banner'
     },
     liveLink: "#",
-    githubLink: "https://github.com/saksham198-tech"
+    githubLink: "https://github.com/saksham198-tech/portfolio198"
   },
   {
     title: "Weather Forecasting",
@@ -45,7 +45,7 @@ const projects = [
       imageHint: 'health fitness'
     },
     liveLink: "https://fithealthknown.vercel.app",
-    githubLink: "https://github.com/saksham198-tech/Healthknown"
+    githubLink: "https://github.com/saksham198-tech/fithealthknown"
   },
     {
     title: "IPL Studio",
@@ -67,7 +67,7 @@ const Projects = () => {
     <SectionWrapper id="projects" title="My Projects" className="bg-muted/30">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {projects.map((project, index) => (
-          <Card key={index} className="flex flex-col overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 hover:bg-[#c170ff]">
+          <Card key={index} className="flex flex-col overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 hover:bg-hover-accent">
             {project.image && (
               <div className="relative h-48 w-full">
                 <Image
