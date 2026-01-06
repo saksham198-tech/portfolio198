@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-picture",
+      "description": "A professional portrait of Charak Srivastava.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQFA0KpWV3bMow/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711086901427?e=1769040000&v=beta&t=2IdNgiZTl3yiBTVTd9XoDz4QrQVdCwHNovKNhXxfceY",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "project-portfolio",
+      "description": "Screenshot of a personal portfolio website.",
+      "imageUrl": "https://images.unsplash.com/photo-1718314414643-c99450952848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3ZWJzaXRlJTIwcG9ydGZvbGlvJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website portfolio 3d"
+    },
+    {
+      "id": "project-weather",
+      "description": "Screenshot of a weather forecasting app.",
+      "imageUrl": "https://images.unsplash.com/photo-1714234824022-771c6a2364c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWF0aGVyJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "weather 3d"
+    },
+    {
+      "id": "project-eathealthy",
+      "description": "Screenshot of a health and fitness app.",
+      "imageUrl": "https://images.unsplash.com/photo-1714234823819-711c6a2364c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjBmaXRuZXNzJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health fitness 3d"
+    },
+    {
+      "id": "project-ipl",
+      "description": "Screenshot of a cricket data analysis app.",
+      "imageUrl": "https://images.unsplash.com/photo-1718314414455-c99450952848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwY3JpY2tldCUyMDNkZGVyfGVufDB8fHx8MTcyMTA2Njg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon cricket 3d"
+    }
+  ]
+}
