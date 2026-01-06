@@ -6,7 +6,7 @@ const experiences = [
   {
     role: "Full Stack Web Developer Intern",
     company: "Hanumant Technology",
-    period: "Jun 2024 - Jul 2024",
+    period: "Jul 2025 - Dec 2025",
     description: "Developed and optimized full-stack applications using Node.js, Express.js, and React, improving load efficiency by 30%. Designed RESTful APIs and integrated SQL and MongoDB databases, reducing data retrieval time by 25%. Built responsive UIs using Tailwind CSS and JavaScript, increasing user engagement by 40%. Implemented API testing and automation using Postman and GitHub workflows, improving deployment speed by 20%."
   }
 ];

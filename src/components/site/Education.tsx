@@ -6,7 +6,7 @@ const education = [
   {
     degree: "Bachelor of Technology in Computer Science and Engineering",
     institution: "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
-    period: "2021 - 2025",
+    period: "2022 - 2026",
     details: "Relevant Coursework: Data Structures, Object-Oriented Programming, DBMS, Web Development, Software Engineering."
   }
 ];
