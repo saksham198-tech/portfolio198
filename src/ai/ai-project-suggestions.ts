@@ -59,7 +59,7 @@ Here are some project examples:
     }
 ]
 
-Return your repsonse as a JSON array.
+Return your response as a JSON array.
 `,
 });
 
