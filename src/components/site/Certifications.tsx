@@ -5,6 +5,7 @@ import { Award } from "lucide-react";
 const certifications = [
   { name: "Oracle Certified Associate, Generative AI", issuer: "Oracle" },
   { name: "Machine Learning Certified", issuer: "Softpro" },
+  { name: "Full-Stack Web Development", issuer: "Hanumant Technology" },
 ];
 
 const Certifications = () => {
