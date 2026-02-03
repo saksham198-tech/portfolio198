@@ -57,6 +57,12 @@ const nextConfig: NextConfig = {
         hostname: 'i.ibb.co',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'instagram.flko1-2.fna.fbcdn.net',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
