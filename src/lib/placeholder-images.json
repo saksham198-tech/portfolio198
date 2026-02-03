@@ -8,27 +8,27 @@
     },
     {
       "id": "project-portfolio",
-      "description": "Screenshot of a personal portfolio website.",
-      "imageUrl": "https://images.unsplash.com/photo-1718314414643-c99450952848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3ZWJzaXRlJTIwcG9ydGZvbGlvJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "website portfolio 3d"
+      "description": "Futuristic banner for a portfolio.",
+      "imageUrl": "https://thumbs.dreamstime.com/b/portfolio-text-futuristic-banner-stock-market-investment-ideal-business-financial-planning-visuals-portfolio-text-325924394.jpg",
+      "imageHint": "portfolio banner"
     },
     {
       "id": "project-weather",
       "description": "Screenshot of a weather forecasting app.",
-      "imageUrl": "https://images.unsplash.com/photo-1714234824022-771c6a2364c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWF0aGVyJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "weather 3d"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMJ1dS4rOu9Bd3YG39cxEwul6bTGoKF_EOw&s",
+      "imageHint": "weather forecast"
     },
     {
       "id": "project-eathealthy",
       "description": "Screenshot of a health and fitness app.",
-      "imageUrl": "https://images.unsplash.com/photo-1714234823819-711c6a2364c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjBmaXRuZXNzJTIwM2R8ZW58MHx8fHwxNzIxMDY2ODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "health fitness 3d"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIdHlmr8Eaw-PtQ0WY9wipIEtiH_uzlTzpw&s",
+      "imageHint": "health fitness"
     },
     {
       "id": "project-ipl",
       "description": "Screenshot of a cricket data analysis app.",
-      "imageUrl": "https://images.unsplash.com/photo-1718314414455-c99450952848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwY3JpY2tldCUyMDNkZGVyfGVufDB8fHx8MTcyMTA2Njg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cartoon cricket 3d"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__8cHazDtkbXRrSny-VT8rzuNCMTL1px-yxgWcx00E1JSVrhX0VktW95tK3QFXJKAES4&usqp=CAU",
+      "imageHint": "cricket analysis"
     }
   ]
 }
