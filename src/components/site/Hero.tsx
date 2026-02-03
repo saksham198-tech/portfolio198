@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96">
             {profileImage && (
               <Image
-                src="https://media.licdn.com/dms/image/v2/D5603AQFA0KpWV3bMow/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711086901427?e=1769040000&v=beta&t=2IdNgiZTl3yiBTVTd9XoDz4QrQVdCwHNovKNhXxfceY"
+                src={profileImage.imageUrl}
                 alt={profileImage.description}
                 width={500}
                 height={500}
