@@ -50,8 +50,7 @@ const Hero = () => {
               <Image
                 src={profileImage.imageUrl}
                 alt={profileImage.description}
-                width={500}
-                height={500}
+                fill
                 data-ai-hint={profileImage.imageHint}
                 className="rounded-full object-cover border-8 border-accent/20 shadow-2xl"
                 priority
