@@ -6,7 +6,7 @@ const stats = [
   { icon: <Code className="w-8 h-8 text-accent" />, value: "10+", label: "Projects Completed" },
   { icon: <Coffee className="w-8 h-8 text-accent" />, value: "5000+", label: "Lines of Code" },
   { icon: <Users className="w-8 h-8 text-accent" />, value: "5+", label: "Team Collaborations" },
-  { icon: <Zap className="w-8 h-8 text-accent" />, value: "2", label: "Certifications Earned" },
+  { icon: <Zap className="w-8 h-8 text-accent" />, value: "3", label: "Certifications Earned" },
 ];
 
 const Stats = () => {
